@@ -16,7 +16,7 @@
 [2]: https://www.github.com/carlsednaoui
 
 
-Hi geeks of internet. I am software engineer; my name is Kevin 
+Hi geeks of internet. I am software engineer; my name is Kevin; I am from 🏘🏘 El Salvador.
 <br>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
@@ -27,6 +27,13 @@ Hi geeks of internet. I am software engineer; my name is Kevin
 - 🎭 I enojoy watch anime in my free time.
 
 <br>
+
+My passion in the world of web techology is solving problems, designing alghoritms, connect interactive web apps to API´s and create awesome animation and not die trying it.
+
+<br>
+
+My expectations are to be effective both working as an individual as a team.
+
 <br>
 
 
