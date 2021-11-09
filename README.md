@@ -21,6 +21,7 @@ Hi geeks of internet. I am software engineer; my name is Kevin; I am from El Sal
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
 - 🔭 I’m currently working on Vuejs
+- 💼 I'm currently work at [teip](https://teip.io) and I am frontend engineer
 - 🌱 I’m currently learning about Bitcoin and cripto currency
 - 🎯 My goal is to become a lead javascript engineer.
 - 🎧 I enjoy listening to music while working everytime.
