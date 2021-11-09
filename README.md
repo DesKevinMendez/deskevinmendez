@@ -1,4 +1,4 @@
-## Hello world 👋
+## 🌎 Hello world 👋
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -16,7 +16,7 @@
 [2]: https://www.github.com/carlsednaoui
 
 
-Hi geeks of internet. I am software engineer; my name is Kevin; I am from 🏘🏘 El Salvador.
+Hi geeks of internet. I am software engineer; my name is Kevin; I am from El Salvador 🇸🇻
 <br>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
@@ -37,7 +37,7 @@ My expectations are to be effective both working as an individual as a team.
 <br>
 
 
-##  🎉 Skills  🎉
+##  🎉 Skills
 - 🖥 **FrontEnd**: Vue, Vuex, SASS, Webpack, React basic, Laravel Blade
 - ⚓️ **BackEnd**: Laravel, Node.js, Express, Fastify
 - 🚀 **CI/CD**: GitHub Actions
@@ -47,3 +47,8 @@ My expectations are to be effective both working as an individual as a team.
 - 💾 **Databases**: MongoDB, MySQL
 - 🤖 **Misc**: Git, Eslint, Prettier, Typescript
 - 👾 **Languages**: Javascript, PHP, Java
+
+## 📫 Contact Me
+- Twitter - [@deskmendez](https://twitter.com/deskmendez)
+- LinkedIn - [Kevin Méndez](https://www.linkedin.com/in/des-kevin-mendez/)
+- Medium.com - [Kevin Méndez](https://deskevinmendez.medium.com/)
