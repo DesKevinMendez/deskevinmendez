@@ -1,4 +1,4 @@
-### Hello world 👋
+## Hello world 👋
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -26,5 +26,17 @@ Hi geeks of internet. I am software engineer; my name is Kevin
 - 🎧 I enjoy listening to music while working everytime.
 - 🎭 I enojoy watch anime in my free time.
 
+<br>
+<br>
 
 
+##  🎉 Skills  🎉
+- 🖥 **FrontEnd**: Vue, Vuex, SASS, Webpack, React basic, Laravel Blade
+- ⚓️ **BackEnd**: Laravel, Node.js, Express, Fastify
+- 🚀 **CI/CD**: GitHub Actions
+- 🚢 **DevOps**: Docker
+- ✍🏻 **UI Frameworks**: TailwindCSS, Bootstrap, Vuetify
+- 👨🏼‍💻 **Web technologies**: HTML5, CSS3, ES5
+- 💾 **Databases**: MongoDB, MySQL
+- 🤖 **Misc**: Git, Eslint, Prettier, Typescript
+- 👾 **Languages**: Javascript, PHP, Java
